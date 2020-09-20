@@ -1,0 +1,13 @@
+body {
+    background: black;
+}
+svg#graphic {
+    margin: 0 auto;
+    display: block;
+}
+button.note {
+    width: 3em;
+}
+label {
+    color: white;
+}
